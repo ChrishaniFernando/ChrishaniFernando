@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChrishaniFernando
+- 👋 Hi, I’m Chrishani Fernando
 - 👀 I’m interested in reality
 - 🌱 I’m currently learning Computer Science, Statistics and Maths
 - 💞️ I’m looking to collaborate on more open source projects
